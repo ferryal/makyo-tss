@@ -1,4 +1,4 @@
-## Storybook Usage Instructions By Herlan Mustopa
+## Storybook Usage Instructions
 
 This project uses **Storybook** to technical test in Makyo Co.
 
